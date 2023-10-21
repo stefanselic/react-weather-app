@@ -1,3 +1,5 @@
+![Bildschirmfoto 2023-10-21 um 19 37 09](https://github.com/stefanselic/react-weather-app/assets/129748801/f666f770-dd58-45c4-a9f0-a6bdc47e2855)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
